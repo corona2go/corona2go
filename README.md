@@ -6,10 +6,10 @@ CALL TO THE OPEN SOURCE COMMUNITY TO HELP THE WORLD !
 ## FOREWORD
 
 Management of the end of the lockdown is going to be very difficult if we don't want any comeback of the epidemy.
-The ideal would be to free people with positive immunity while keeping other locked. But this is simply impossible to manage (not enough test, huge organization, tests not reliable enough etc....). Some governement are thinking about freeing some regions or youngest firsts.
+The ideal would be to free people with positive immunity while keeping other locked. But this is simply impossible to manage (not enough test, huge organization, tests not reliable enough etc....). Some governement are thinking about to free some regions or youngest firsts.
 But the more people you have in the streets and public places, the more it will be tough to control who is free to move or not.
 
-The only way is having a "Dynamic Mobile Pass" with a QR code that grant you access to outside and that keep tracking of close contacts with other mobile phones for a certain duration (e.g. 21 days) to alert in case of possible virus contagious contact case to limit respreading of the virus.
+The only way is having a "Dynamic Mobile Pass" with a QR code that grant you access to outside and that keep tracking of close contacts with other mobile phones for a certain duration (e.g. 21 days) and to alert in case of possible virus contagious contact case to limit respreading of the virus.
 
 Some countries have already set up mobile apps with contact history (e.g. South Korea, Singapour) and other are setting up mobile phone grant outside access (e.g. France). 
 
