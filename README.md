@@ -2,7 +2,7 @@
 Public Mobile Phone App to provide contagious contacts history and grant access for contagious free people.
 CALL TO THE OPEN SOURCE COMMUNITY TO HELP THE WORLD !
 
-## FOREWARD
+## FOREWORD
 
 Management of the end of the lockdown is going to be very difficult if we don't want any comeback of the epidemy.
 The ideal would be to free people with positive immunity while keeping other locked. But this is simply impossible to manage (not enough test, huge organization, tests not reliable enough etc....). Some governement are thinking about free some regions or youngest firsts.
