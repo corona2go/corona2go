@@ -1,4 +1,4 @@
-# coronafree - CALL TO THE OPEN SOURCE COMMUNITY TO HELP THE WORLD
+# CORONAFREE - CALL TO THE OPEN SOURCE COMMUNITY TO HELP THE WORLD
 Public Mobile Phone App to provide contagious contacts history and grant access for contagious free people.
 
 ## FOREWARD
