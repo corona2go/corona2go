@@ -3,7 +3,7 @@ Help build CoronaFree, a public, open source mobile phone app that can track cas
 
 CALL TO THE OPEN SOURCE COMMUNITY TO HELP THE WORLD FIGHT THE CORONAVIRUS !
 
-First version of the specifications : https://github.com/coronafree/coronafree/wiki/General-Specifications---V0.1
+First version of the specifications : https://github.com/coronafree/coronafree/wiki/General-Specifications
 
 ## FOREWORD
 
