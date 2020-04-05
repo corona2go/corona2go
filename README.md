@@ -7,8 +7,9 @@ CALL TO THE OPEN SOURCE COMMUNITY TO HELP THE WORLD FIGHT THE CORONAVIRUS !
 - [Call for volunteers and organization](https://github.com/coronafree/coronafree/wiki/Call-For-Volunteers-and-General-Organization)
 - [First version of the specifications](https://github.com/coronafree/coronafree/wiki/General-Specifications)
 
-# Request Feature / Feebacks / Bugs
-    Please feel free to open ideas and issues on the specifications
+# Ideas / Comments / Issues / Bugs
+    [Please feel free to write comments, ideas and issues](https://github.com/coronafree/coronafree/issues)
+    (use existing tags to help sort/find 
 
 # License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details
