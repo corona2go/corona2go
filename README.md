@@ -29,13 +29,10 @@ Those applications are highly data sensitive and may lead to massive government 
 
 Also, those apps are focused on a single country. Instead, they should be deployed simultaneously in several countries; especially those who share open borders (e.g. Europe).
 As the situation becomes more dramatic, countries are giving up on international solidarity (e.g. the facial masks war).
-That means each country is trying to come up with its own solution to manage the fight against the coronavirus, a strategy that is doomed to diminish the global fight against the virus. 
-Some countries lack the resources or the expertise to come up with a viable strategy.
+That means each country is trying to come up with its own solution to manage the fight against the borderless coronavirus, a strategy that is doomed to diminish the global fight against the borderless virus. 
 
-Open Source software and policies are the best answer to those problems, and it is time for Governments to embrace it.
+Moreover, some countries may lack the resources or the expertise to come up with a viable strategy and may benefit from such free open source applications.
+
+Open Source software and policies are the best answer to those problems, as everyone may see the source codes and specifications of the mobile app he is going to download to its smartphone, knowing exactly which data are stored and exchanged. It is time for Governments to embrace it.
 
 **The Open Source community has a unique opportunity to massively help the world in its fight against deadly viruses !**
-
-
-
-
