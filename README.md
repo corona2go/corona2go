@@ -7,6 +7,12 @@ CALL TO THE OPEN SOURCE COMMUNITY TO HELP THE WORLD FIGHT THE CORONAVIRUS !
 - [Call for volunteers and organization](https://github.com/coronafree/coronafree/wiki/Call-For-Volunteers-and-General-Organization)
 - [First version of the specifications](https://github.com/coronafree/coronafree/wiki/General-Specifications)
 
+# Request Feature / Feebacks / Bugs
+    Please feel free to open ideas and issues on the specifications
+
+# License
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details
+
 ## FOREWORD
 
 Lifting the lockdown that has been imposed by authorities around the world on the population in order to prevent the coronavirus from spreading will entail serius challenges.
