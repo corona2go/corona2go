@@ -12,7 +12,7 @@
 - Operation experts (deployment, operation)
     
 # Want to contribute ?
-Please apply through [Issues](https://github.com/coronafree/coronafree/issues) with label "Want to Team In".
+Great ! Please apply through [Issues](https://github.com/coronafree/coronafree/issues) with label "Want to Team In".
 
 Tell us shortly on which part(s) of the project you'd like to apply to and why.
 
