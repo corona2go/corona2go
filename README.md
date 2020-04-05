@@ -8,11 +8,8 @@ CALL TO THE OPEN SOURCE COMMUNITY TO HELP THE WORLD FIGHT THE CORONAVIRUS !
 - [First version of the specifications](https://github.com/coronafree/coronafree/wiki/General-Specifications)
 
 # Ideas / Comments / Issues / Bugs
-[Please feel free to write comments, ideas and issues](https://github.com/coronafree/coronafree/issues)
-(use existing tags to help sort/find 
-
-# License
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details
+[Please feel free to write comments, ideas, issues](https://github.com/coronafree/coronafree/issues) 
+(use existing tags to help sort/find :relaxed:)
 
 ## FOREWORD
 
@@ -43,3 +40,7 @@ Moreover, some countries may lack the resources or the expertise to come up with
 Open Source software and policies are the best answer to those problems, as everyone may see the source codes and specifications of the mobile app he is going to download to its smartphone, knowing exactly which data are stored and exchanged. It is time for Governments to embrace it.
 
 **The Open Source community has a unique opportunity to massively help the world in its fight against deadly viruses !**
+
+# License
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details
+
