@@ -11,12 +11,10 @@ Help build CoronaFree, a public, open source mobile phone app that can track cas
 [Please feel free to write comments, ideas, issues](https://github.com/coronafree/coronafree/issues) 
 (use existing tags to help sort/find :relaxed:)
 
-## State Diagramm
-
+## State Diagram
 ![States Diagram](States%20Diagram.png?raw=true)
 
 ## FOREWORD
-
 Lifting the lockdown that has been imposed by authorities around the world on the population in order to prevent the coronavirus from spreading will entail serius challenges.
 
 To keep the disease from resurfacing, ideally, people with acquired immunity should be free from restrictions of movement, while the rest of the population should remain in lockdown. That is, at this moment, impossible to achieve, for various reasons (lack of tests, reliability, organizational challenges, etc.).
