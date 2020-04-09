@@ -1,14 +1,14 @@
-# CoronaFree2move
-Help build CoronaFree2move, a public, open source mobile phone app that can track cases of contagious people and potentially hazardous contacts, and grant free movement to non-contagious people with respect to data protection and privacy.
+# Corona2go
+Help build Corona2go, a public, open source mobile phone app that can track cases of contagious people and potentially hazardous contacts, and grant free movement to non-contagious people with respect to data protection and privacy.
 
      CALL TO THE OPEN SOURCE COMMUNITY TO HELP THE WORLD FIGHT THE CORONAVIRUS !
 
-- [Foreword (see below)](https://github.com/coronafree/coronafree/wiki/FOREWORD)
-- [Call for volunteers and organization](https://github.com/coronafree/coronafree/wiki/Call-For-Volunteers-and-General-Organization)
-- [First version of the specifications](https://github.com/coronafree/coronafree/wiki/General-Specifications)
+- [Foreword (see below)](https://github.com/corona2go/corona2go/wiki/FOREWORD)
+- [Call for volunteers and organization](https://github.com/corona2go/corona2go/wiki/Call-For-Volunteers-and-General-Organization)
+- [First version of the specifications](https://github.com/corona2go/corona2go/wiki/General-Specifications)
 
 # Ideas / Comments / Issues / Bugs
-[Please feel free to write comments, ideas, issues](https://github.com/coronafree/coronafree/issues) 
+[Please feel free to write comments, ideas, issues](https://github.com/corona2go/corona2go/issues) 
 (use existing tags to help sort/find :relaxed:)
 
 ## State Diagram
