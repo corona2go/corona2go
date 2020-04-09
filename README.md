@@ -1,5 +1,5 @@
-# CORONAFREE
-Help build CoronaFree, a public, open source mobile phone app that can track cases of contagious people and potentially hazardous contacts, and grant free movement to non-contagious people with respect to data protection and privacy.
+# CoronaFree2move
+Help build CoronaFree2move, a public, open source mobile phone app that can track cases of contagious people and potentially hazardous contacts, and grant free movement to non-contagious people with respect to data protection and privacy.
 
      CALL TO THE OPEN SOURCE COMMUNITY TO HELP THE WORLD FIGHT THE CORONAVIRUS !
 
