@@ -12,7 +12,7 @@ Help build Corona2go, a public, open source mobile phone app that can track case
 (use existing tags to help sort/find :relaxed:)
 
 ## State Diagram
-![State Diagram](StateDiagram.png?raw=true)
+![State Diagram](StateDiagram2.png?raw=true)
 
 ## FOREWORD
 Lifting the lockdown that has been imposed by authorities around the world on the population in order to prevent the coronavirus from spreading will entail serius challenges.
