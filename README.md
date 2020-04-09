@@ -12,7 +12,7 @@ Help build CoronaFree2move, a public, open source mobile phone app that can trac
 (use existing tags to help sort/find :relaxed:)
 
 ## State Diagram
-![States Diagram](States%20Diagram.png?raw=true)
+![State Diagram](StateDiagram.png?raw=true)
 
 ## FOREWORD
 Lifting the lockdown that has been imposed by authorities around the world on the population in order to prevent the coronavirus from spreading will entail serius challenges.
